@@ -1,0 +1,130 @@
+
+--- TC Search Results (Method 2 - Minimum Difference) ---
+  TC CODE 0:
+    -> M1 (0x1F): 75.439 mA
+    -> M2 (0x3F): 51.823 mA
+    -> Diff: 23.616 mA
+  TC CODE 1:
+    -> M1 (0x1F): 74.216 mA
+    -> M2 (0x3F): 53.037 mA
+    -> Diff: 21.179 mA
+  TC CODE 2:
+    -> M1 (0x1F): 73.047 mA
+    -> M2 (0x3F): 54.207 mA
+    -> Diff: 18.840 mA
+  TC CODE 3:
+    -> M1 (0x1F): 71.795 mA
+    -> M2 (0x3F): 55.452 mA
+    -> Diff: 16.344 mA
+  TC CODE 4:
+    -> M1 (0x1F): 70.553 mA
+    -> M2 (0x3F): 56.618 mA
+    -> Diff: 13.936 mA
+  TC CODE 5:
+    -> M1 (0x1F): 69.331 mA
+    -> M2 (0x3F): 57.803 mA
+    -> Diff: 11.528 mA
+  TC CODE 6:
+    -> M1 (0x1F): 68.223 mA
+    -> M2 (0x3F): 59.021 mA
+    -> Diff: 9.202 mA
+  TC CODE 7:
+    -> M1 (0x1F): 67.036 mA
+    -> M2 (0x3F): 60.186 mA
+    -> Diff: 6.851 mA
+  TC CODE 8:
+    -> M1 (0x1F): 65.782 mA
+    -> M2 (0x3F): 61.436 mA
+    -> Diff: 4.347 mA
+  TC CODE 9:
+    -> M1 (0x1F): 64.623 mA
+    -> M2 (0x3F): 62.652 mA
+    -> Diff: 1.971 mA
+  TC CODE 10:
+    -> M1 (0x1F): 63.408 mA
+    -> M2 (0x3F): 63.805 mA
+    -> Diff: 0.397 mA
+  TC CODE 11:
+    -> M1 (0x1F): 62.280 mA
+    -> M2 (0x3F): 64.971 mA
+    -> Diff: 2.691 mA
+  TC CODE 12:
+    -> M1 (0x1F): 61.103 mA
+    -> M2 (0x3F): 66.161 mA
+    -> Diff: 5.058 mA
+  TC CODE 13:
+    -> M1 (0x1F): 59.910 mA
+    -> M2 (0x3F): 67.241 mA
+    -> Diff: 7.331 mA
+  TC CODE 14:
+    -> M1 (0x1F): 58.719 mA
+    -> M2 (0x3F): 68.489 mA
+    -> Diff: 9.770 mA
+  TC CODE 15:
+    -> M1 (0x1F): 57.610 mA
+    -> M2 (0x3F): 69.631 mA
+    -> Diff: 12.021 mA
+  TC CODE 16:
+    -> M1 (0x1F): 56.433 mA
+    -> M2 (0x3F): 70.804 mA
+    -> Diff: 14.371 mA
+  TC CODE 17:
+    -> M1 (0x1F): 55.208 mA
+    -> M2 (0x3F): 71.989 mA
+    -> Diff: 16.781 mA
+  TC CODE 18:
+    -> M1 (0x1F): 54.065 mA
+    -> M2 (0x3F): 73.195 mA
+    -> Diff: 19.130 mA
+  TC CODE 19:
+    -> M1 (0x1F): 52.885 mA
+    -> M2 (0x3F): 74.335 mA
+    -> Diff: 21.450 mA
+  TC CODE 20:
+    -> M1 (0x1F): 51.728 mA
+    -> M2 (0x3F): 75.562 mA
+    -> Diff: 23.834 mA
+  TC CODE 21:
+    -> M1 (0x1F): 50.557 mA
+    -> M2 (0x3F): 76.711 mA
+    -> Diff: 26.154 mA
+  TC CODE 22:
+    -> M1 (0x1F): 49.364 mA
+    -> M2 (0x3F): 77.826 mA
+    -> Diff: 28.462 mA
+  TC CODE 23:
+    -> M1 (0x1F): 48.138 mA
+    -> M2 (0x3F): 79.031 mA
+    -> Diff: 30.892 mA
+  TC CODE 24:
+    -> M1 (0x1F): 46.975 mA
+    -> M2 (0x3F): 80.274 mA
+    -> Diff: 33.299 mA
+  TC CODE 25:
+    -> M1 (0x1F): 45.803 mA
+    -> M2 (0x3F): 81.456 mA
+    -> Diff: 35.653 mA
+  TC CODE 26:
+    -> M1 (0x1F): 44.657 mA
+    -> M2 (0x3F): 82.503 mA
+    -> Diff: 37.846 mA
+  TC CODE 27:
+    -> M1 (0x1F): 43.503 mA
+    -> M2 (0x3F): 83.637 mA
+    -> Diff: 40.134 mA
+  TC CODE 28:
+    -> M1 (0x1F): 42.369 mA
+    -> M2 (0x3F): 84.702 mA
+    -> Diff: 42.333 mA
+  TC CODE 29:
+    -> M1 (0x1F): 41.314 mA
+    -> M2 (0x3F): 85.348 mA
+    -> Diff: 44.034 mA
+  TC CODE 30:
+    -> M1 (0x1F): 40.111 mA
+    -> M2 (0x3F): 85.562 mA
+    -> Diff: 45.451 mA
+
+[ANALYSIS] Best TC code (min difference) found: 10 (0x0A)
+[ANALYSIS] -> with Difference: 0.397 mA
+[ANALYSIS] -> The average current for this code is: 63.606 mA
